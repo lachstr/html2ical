@@ -1,4 +1,6 @@
-# html2ical
+# html2ical [depreciated]
+The University of Melbourne uses a new system for timetabling, which supports exporting as .ical. Thus this tool no longer works and will not be updated.
+
 A tool which creates an .ical file from the offical University of Melbourne Student Timetable portal
 
 Compile:
